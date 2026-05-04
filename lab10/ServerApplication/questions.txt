@@ -1,0 +1,3 @@
+Salut ai cont la raiifeisen?|Nu|10
+Stii campania actuala?|Nu|8
+Faci 600 de lei la inregistrare|Ok Vreau|5

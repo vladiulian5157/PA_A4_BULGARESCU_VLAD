@@ -1,0 +1,3 @@
+What is the capital of France?|Paris|10
+Which planet is known as the Red Planet?|Mars|8
+What is 5 + 7?|12|5
